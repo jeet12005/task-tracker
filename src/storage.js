@@ -13,3 +13,10 @@ export function splitSprint(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the report. */
+export function formatReport(value) {
+  if (value == null) return null;
+  return value;
+}
