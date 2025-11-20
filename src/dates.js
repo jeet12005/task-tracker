@@ -6,3 +6,10 @@ export function groupAssignee(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the reminder. */
+export function renderReminder(value) {
+  if (value == null) return null;
+  return value;
+}
