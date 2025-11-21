@@ -9,3 +9,8 @@ test('loadTask handles null', () => {
 test('groupAssignee handles null', () => {
   expect(groupAssignee(null)).toBeNull();
 });
+
+
+test('normalizeReminder handles null', () => {
+  expect(normalizeReminder(null)).toBeNull();
+});
