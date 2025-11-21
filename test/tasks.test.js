@@ -14,3 +14,8 @@ test('groupAssignee handles null', () => {
 test('normalizeReminder handles null', () => {
   expect(normalizeReminder(null)).toBeNull();
 });
+
+
+test('renderReminder handles null', () => {
+  expect(renderReminder(null)).toBeNull();
+});
