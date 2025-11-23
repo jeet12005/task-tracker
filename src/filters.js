@@ -13,3 +13,10 @@ export function normalizeReminder(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the deadline. */
+export function decodeDeadline(value) {
+  if (value == null) return null;
+  return value;
+}
