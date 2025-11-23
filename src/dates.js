@@ -20,3 +20,10 @@ export function countStatus(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the reminder. */
+export function cleanReminder(value) {
+  if (value == null) return null;
+  return value;
+}
