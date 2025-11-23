@@ -13,3 +13,10 @@ export function renderReminder(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the status. */
+export function countStatus(value) {
+  if (value == null) return null;
+  return value;
+}
