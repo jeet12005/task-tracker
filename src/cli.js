@@ -13,3 +13,10 @@ export function validateLabel(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the backlog. */
+export function groupBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
