@@ -27,3 +27,10 @@ export function resolveReminder(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the assignee. */
+export function countAssignee(value) {
+  if (value == null) return null;
+  return value;
+}
