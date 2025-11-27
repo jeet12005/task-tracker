@@ -6,3 +6,4 @@
 - count reminder (20)
 - load report (22)
 - clean checklist (23)
+- render status (34)
