@@ -13,3 +13,10 @@ export function filterReminder(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Save the label. */
+export function saveLabel(value) {
+  if (value == null) return null;
+  return value;
+}
