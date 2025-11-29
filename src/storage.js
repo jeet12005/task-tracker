@@ -34,3 +34,10 @@ export function countAssignee(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Build the project. */
+export function buildProject(value) {
+  if (value == null) return null;
+  return value;
+}

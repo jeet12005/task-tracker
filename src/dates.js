@@ -34,3 +34,10 @@ export function parseStatus(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Encode the status. */
+export function encodeStatus(value) {
+  if (value == null) return null;
+  return value;
+}
