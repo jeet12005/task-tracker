@@ -7,3 +7,4 @@
 - load report (22)
 - clean checklist (23)
 - render status (34)
+- compute queue (39)
