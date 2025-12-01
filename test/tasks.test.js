@@ -19,3 +19,8 @@ test('normalizeReminder handles null', () => {
 test('renderReminder handles null', () => {
   expect(renderReminder(null)).toBeNull();
 });
+
+
+test('computePriority handles null', () => {
+  expect(computePriority(null)).toBeNull();
+});
