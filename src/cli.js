@@ -20,3 +20,10 @@ export function groupBacklog(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the tag. */
+export function groupTag(value) {
+  if (value == null) return null;
+  return value;
+}

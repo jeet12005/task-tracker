@@ -20,3 +20,10 @@ export function saveLabel(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Validate the priority. */
+export function validatePriority(value) {
+  if (value == null) return null;
+  return value;
+}
