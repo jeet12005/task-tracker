@@ -41,3 +41,10 @@ export function buildProject(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the tag. */
+export function groupTag2(value) {
+  if (value == null) return null;
+  return value;
+}
