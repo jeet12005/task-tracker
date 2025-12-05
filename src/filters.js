@@ -20,3 +20,10 @@ export function decodeDeadline(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Save the assignee. */
+export function saveAssignee(value) {
+  if (value == null) return null;
+  return value;
+}
