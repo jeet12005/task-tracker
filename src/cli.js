@@ -27,3 +27,10 @@ export function groupTag(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Fetch the backlog. */
+export function fetchBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
