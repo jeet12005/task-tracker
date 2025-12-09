@@ -27,3 +27,10 @@ export function validatePriority(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Compute the queue. */
+export function computeQueue(value) {
+  if (value == null) return null;
+  return value;
+}
