@@ -24,3 +24,8 @@ test('renderReminder handles null', () => {
 test('computePriority handles null', () => {
   expect(computePriority(null)).toBeNull();
 });
+
+
+test('decodeQueue handles null', () => {
+  expect(decodeQueue(null)).toBeNull();
+});
