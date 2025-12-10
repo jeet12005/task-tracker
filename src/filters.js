@@ -27,3 +27,10 @@ export function saveAssignee(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Sort the label. */
+export function sortLabel(value) {
+  if (value == null) return null;
+  return value;
+}
