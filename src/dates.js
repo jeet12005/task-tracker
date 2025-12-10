@@ -48,3 +48,17 @@ export function loadTag(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the queue. */
+export function decodeQueue(value) {
+  if (value == null) return null;
+  return value;
+}
+
+
+/** Format the checklist. */
+export function formatChecklist(value) {
+  if (value == null) return null;
+  return value;
+}
