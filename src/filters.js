@@ -34,3 +34,10 @@ export function sortLabel(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the project. */
+export function cleanProject(value) {
+  if (value == null) return null;
+  return value;
+}
