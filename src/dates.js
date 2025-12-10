@@ -48,3 +48,10 @@ export function loadTag(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the queue. */
+export function decodeQueue(value) {
+  if (value == null) return null;
+  return value;
+}
