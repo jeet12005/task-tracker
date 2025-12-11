@@ -41,3 +41,10 @@ export function cleanProject(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the label. */
+export function renderLabel(value) {
+  if (value == null) return null;
+  return value;
+}
