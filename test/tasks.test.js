@@ -29,3 +29,8 @@ test('computePriority handles null', () => {
 test('decodeQueue handles null', () => {
   expect(decodeQueue(null)).toBeNull();
 });
+
+
+test('loadTag handles null', () => {
+  expect(loadTag(null)).toBeNull();
+});
