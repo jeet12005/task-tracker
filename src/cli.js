@@ -34,3 +34,10 @@ export function fetchBacklog(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Resolve the backlog. */
+export function resolveBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
