@@ -34,3 +34,8 @@ test('decodeQueue handles null', () => {
 test('loadTag handles null', () => {
   expect(loadTag(null)).toBeNull();
 });
+
+
+test('groupTag2 handles null', () => {
+  expect(groupTag2(null)).toBeNull();
+});
