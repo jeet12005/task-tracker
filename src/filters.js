@@ -48,3 +48,10 @@ export function renderLabel(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Sort the note. */
+export function sortNote(value) {
+  if (value == null) return null;
+  return value;
+}
