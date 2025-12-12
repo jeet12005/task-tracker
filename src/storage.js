@@ -55,3 +55,10 @@ export function countChecklist(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the tag. */
+export function formatTag(value) {
+  if (value == null) return null;
+  return value;
+}
