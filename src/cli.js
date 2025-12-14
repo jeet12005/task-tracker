@@ -41,3 +41,10 @@ export function resolveBacklog(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the tag. */
+export function formatTag2(value) {
+  if (value == null) return null;
+  return value;
+}
