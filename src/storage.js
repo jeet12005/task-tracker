@@ -62,3 +62,10 @@ export function formatTag(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the priority. */
+export function groupPriority(value) {
+  if (value == null) return null;
+  return value;
+}
