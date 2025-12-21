@@ -34,3 +34,10 @@ export function computeQueue(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the priority. */
+export function countPriority(value) {
+  if (value == null) return null;
+  return value;
+}
