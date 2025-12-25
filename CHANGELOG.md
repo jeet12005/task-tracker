@@ -15,3 +15,4 @@
 - render backlog (72)
 - merge assignee (78)
 - resolve checklist (79)
+- filter deadline (80)
