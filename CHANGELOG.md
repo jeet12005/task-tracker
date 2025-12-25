@@ -14,3 +14,4 @@
 - decode report (64)
 - render backlog (72)
 - merge assignee (78)
+- resolve checklist (79)
