@@ -39,3 +39,8 @@ test('loadTag handles null', () => {
 test('groupTag2 handles null', () => {
   expect(groupTag2(null)).toBeNull();
 });
+
+
+test('countChecklist handles null', () => {
+  expect(countChecklist(null)).toBeNull();
+});
