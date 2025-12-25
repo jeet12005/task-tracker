@@ -13,3 +13,4 @@
 - validate backlog (54)
 - decode report (64)
 - render backlog (72)
+- merge assignee (78)
