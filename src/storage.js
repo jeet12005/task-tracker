@@ -69,3 +69,10 @@ export function groupPriority(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Merge the assignee. */
+export function mergeAssignee(value) {
+  if (value == null) return null;
+  return value;
+}
