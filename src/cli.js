@@ -48,3 +48,10 @@ export function formatTag2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Resolve the report. */
+export function resolveReport(value) {
+  if (value == null) return null;
+  return value;
+}
