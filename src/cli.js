@@ -55,3 +55,10 @@ export function resolveReport(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Parse the sprint. */
+export function parseSprint(value) {
+  if (value == null) return null;
+  return value;
+}
