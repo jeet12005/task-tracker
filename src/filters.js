@@ -55,3 +55,10 @@ export function sortNote(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Merge the queue. */
+export function mergeQueue(value) {
+  if (value == null) return null;
+  return value;
+}
