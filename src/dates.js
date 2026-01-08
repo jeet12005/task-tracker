@@ -62,3 +62,10 @@ export function formatChecklist(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Normalize the status. */
+export function normalizeStatus(value) {
+  if (value == null) return null;
+  return value;
+}
