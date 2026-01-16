@@ -44,3 +44,8 @@ test('groupTag2 handles null', () => {
 test('countChecklist handles null', () => {
   expect(countChecklist(null)).toBeNull();
 });
+
+
+test('countPriority handles null', () => {
+  expect(countPriority(null)).toBeNull();
+});
