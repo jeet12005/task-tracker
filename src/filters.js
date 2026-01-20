@@ -62,3 +62,10 @@ export function mergeQueue(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Validate the label. */
+export function validateLabel2(value) {
+  if (value == null) return null;
+  return value;
+}
