@@ -76,3 +76,10 @@ export function mergeAssignee(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the checklist. */
+export function groupChecklist(value) {
+  if (value == null) return null;
+  return value;
+}
