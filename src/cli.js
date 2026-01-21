@@ -62,3 +62,10 @@ export function parseSprint(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the note. */
+export function groupNote(value) {
+  if (value == null) return null;
+  return value;
+}
