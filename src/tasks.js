@@ -41,3 +41,10 @@ export function countPriority(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Build the deadline. */
+export function buildDeadline(value) {
+  if (value == null) return null;
+  return value;
+}
