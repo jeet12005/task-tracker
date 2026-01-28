@@ -69,3 +69,17 @@ export function groupNote(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Split the project. */
+export function splitProject(value) {
+  if (value == null) return null;
+  return value;
+}
+
+
+/** Load the task. */
+export function loadTask2(value) {
+  if (value == null) return null;
+  return value;
+}

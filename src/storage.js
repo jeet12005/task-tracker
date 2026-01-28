@@ -83,3 +83,10 @@ export function groupChecklist(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Parse the note. */
+export function parseNote(value) {
+  if (value == null) return null;
+  return value;
+}
