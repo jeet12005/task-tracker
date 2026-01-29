@@ -55,3 +55,10 @@ export function resolveAssignee(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Sort the checklist. */
+export function sortChecklist(value) {
+  if (value == null) return null;
+  return value;
+}
