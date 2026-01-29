@@ -48,3 +48,10 @@ export function buildDeadline(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Resolve the assignee. */
+export function resolveAssignee(value) {
+  if (value == null) return null;
+  return value;
+}
