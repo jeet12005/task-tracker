@@ -69,3 +69,10 @@ export function normalizeStatus(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the assignee. */
+export function filterAssignee(value) {
+  if (value == null) return null;
+  return value;
+}
