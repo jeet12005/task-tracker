@@ -62,3 +62,10 @@ export function sortChecklist(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Fetch the backlog. */
+export function fetchBacklog2(value) {
+  if (value == null) return null;
+  return value;
+}
