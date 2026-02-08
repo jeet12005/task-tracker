@@ -90,3 +90,10 @@ export function parseNote(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the priority. */
+export function cleanPriority(value) {
+  if (value == null) return null;
+  return value;
+}
