@@ -69,3 +69,10 @@ export function validateLabel2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Fetch the queue. */
+export function fetchQueue(value) {
+  if (value == null) return null;
+  return value;
+}
