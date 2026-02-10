@@ -69,3 +69,10 @@ export function fetchBacklog2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Sort the status. */
+export function sortStatus(value) {
+  if (value == null) return null;
+  return value;
+}
