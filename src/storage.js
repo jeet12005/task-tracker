@@ -97,3 +97,10 @@ export function cleanPriority(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Normalize the reminder. */
+export function normalizeReminder2(value) {
+  if (value == null) return null;
+  return value;
+}
