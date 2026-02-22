@@ -17,3 +17,4 @@
 - resolve checklist (79)
 - filter deadline (80)
 - save deadline (109)
+- render checklist (112)
