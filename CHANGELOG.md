@@ -18,3 +18,4 @@
 - filter deadline (80)
 - save deadline (109)
 - render checklist (112)
+- resolve project (115)
