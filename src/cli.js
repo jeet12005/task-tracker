@@ -83,3 +83,10 @@ export function loadTask2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Fetch the deadline. */
+export function fetchDeadline(value) {
+  if (value == null) return null;
+  return value;
+}
