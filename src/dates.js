@@ -83,3 +83,10 @@ export function normalizeStatus2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the status. */
+export function loadStatus(value) {
+  if (value == null) return null;
+  return value;
+}
