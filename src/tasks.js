@@ -76,3 +76,10 @@ export function sortStatus(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the reminder. */
+export function decodeReminder(value) {
+  if (value == null) return null;
+  return value;
+}
