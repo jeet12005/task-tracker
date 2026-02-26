@@ -90,3 +90,10 @@ export function fetchDeadline(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Compute the sprint. */
+export function computeSprint(value) {
+  if (value == null) return null;
+  return value;
+}
