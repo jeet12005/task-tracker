@@ -83,3 +83,10 @@ export function decodeReminder(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Validate the deadline. */
+export function validateDeadline(value) {
+  if (value == null) return null;
+  return value;
+}
