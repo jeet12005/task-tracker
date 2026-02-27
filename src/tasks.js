@@ -90,3 +90,10 @@ export function validateDeadline(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the note. */
+export function filterNote(value) {
+  if (value == null) return null;
+  return value;
+}
