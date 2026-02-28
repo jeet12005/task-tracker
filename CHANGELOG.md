@@ -19,3 +19,5 @@
 - save deadline (109)
 - render checklist (112)
 - resolve project (115)
+- filter project (127)
+- render deadline (128)
