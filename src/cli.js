@@ -97,3 +97,10 @@ export function computeSprint(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the report. */
+export function cleanReport(value) {
+  if (value == null) return null;
+  return value;
+}
