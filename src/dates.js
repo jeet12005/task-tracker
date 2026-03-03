@@ -90,3 +90,10 @@ export function loadStatus(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the sprint. */
+export function countSprint(value) {
+  if (value == null) return null;
+  return value;
+}
