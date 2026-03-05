@@ -104,3 +104,10 @@ export function cleanReport(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the assignee. */
+export function cleanAssignee(value) {
+  if (value == null) return null;
+  return value;
+}
