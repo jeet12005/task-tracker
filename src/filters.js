@@ -76,3 +76,10 @@ export function fetchQueue(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the assignee. */
+export function filterAssignee2(value) {
+  if (value == null) return null;
+  return value;
+}
