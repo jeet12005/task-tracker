@@ -111,3 +111,10 @@ export function cleanAssignee(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the tag. */
+export function groupTag3(value) {
+  if (value == null) return null;
+  return value;
+}
