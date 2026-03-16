@@ -111,3 +111,10 @@ export function formatTask(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the project. */
+export function cleanProject2(value) {
+  if (value == null) return null;
+  return value;
+}
