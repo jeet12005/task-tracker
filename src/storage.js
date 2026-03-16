@@ -118,3 +118,10 @@ export function cleanProject2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Normalize the reminder. */
+export function normalizeReminder3(value) {
+  if (value == null) return null;
+  return value;
+}
