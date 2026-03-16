@@ -104,3 +104,10 @@ export function normalizeReminder2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the task. */
+export function formatTask(value) {
+  if (value == null) return null;
+  return value;
+}
