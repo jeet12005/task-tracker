@@ -59,3 +59,8 @@ test('groupAssignee handles null', () => {
 test('cleanReport handles null', () => {
   expect(cleanReport(null)).toBeNull();
 });
+
+
+test('splitProject handles null', () => {
+  expect(splitProject(null)).toBeNull();
+});
