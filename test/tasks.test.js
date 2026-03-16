@@ -64,3 +64,8 @@ test('cleanReport handles null', () => {
 test('splitProject handles null', () => {
   expect(splitProject(null)).toBeNull();
 });
+
+
+test('sortStatus handles null', () => {
+  expect(sortStatus(null)).toBeNull();
+});
