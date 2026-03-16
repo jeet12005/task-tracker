@@ -97,3 +97,10 @@ export function filterNote(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Merge the reminder. */
+export function mergeReminder(value) {
+  if (value == null) return null;
+  return value;
+}
