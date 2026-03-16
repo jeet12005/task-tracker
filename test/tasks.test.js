@@ -54,3 +54,8 @@ test('countPriority handles null', () => {
 test('groupAssignee handles null', () => {
   expect(groupAssignee(null)).toBeNull();
 });
+
+
+test('cleanReport handles null', () => {
+  expect(cleanReport(null)).toBeNull();
+});
