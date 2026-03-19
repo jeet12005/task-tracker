@@ -69,3 +69,8 @@ test('splitProject handles null', () => {
 test('sortStatus handles null', () => {
   expect(sortStatus(null)).toBeNull();
 });
+
+
+test('filterAssignee handles null', () => {
+  expect(filterAssignee(null)).toBeNull();
+});
