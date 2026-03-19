@@ -74,3 +74,8 @@ test('sortStatus handles null', () => {
 test('filterAssignee handles null', () => {
   expect(filterAssignee(null)).toBeNull();
 });
+
+
+test('fetchDeadline handles null', () => {
+  expect(fetchDeadline(null)).toBeNull();
+});
