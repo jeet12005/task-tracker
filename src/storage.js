@@ -125,3 +125,10 @@ export function normalizeReminder3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the note. */
+export function formatNote(value) {
+  if (value == null) return null;
+  return value;
+}
