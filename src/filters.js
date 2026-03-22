@@ -83,3 +83,10 @@ export function filterAssignee2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Save the backlog. */
+export function saveBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
