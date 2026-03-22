@@ -22,3 +22,4 @@
 - filter project (127)
 - render deadline (128)
 - sort task (140)
+- resolve task (146)
