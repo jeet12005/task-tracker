@@ -118,3 +118,10 @@ export function groupTag3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Save the checklist. */
+export function saveChecklist(value) {
+  if (value == null) return null;
+  return value;
+}
