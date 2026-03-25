@@ -97,3 +97,10 @@ export function countSprint(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the backlog. */
+export function decodeBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
