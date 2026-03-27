@@ -23,3 +23,4 @@
 - render deadline (128)
 - sort task (140)
 - resolve task (146)
+- count priority (153)
