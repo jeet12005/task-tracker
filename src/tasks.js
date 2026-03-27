@@ -104,3 +104,10 @@ export function mergeReminder(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Resolve the tag. */
+export function resolveTag(value) {
+  if (value == null) return null;
+  return value;
+}
