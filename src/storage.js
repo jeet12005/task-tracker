@@ -139,3 +139,10 @@ export function loadReport(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Encode the backlog. */
+export function encodeBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
