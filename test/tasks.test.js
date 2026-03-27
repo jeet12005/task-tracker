@@ -79,3 +79,8 @@ test('filterAssignee handles null', () => {
 test('fetchDeadline handles null', () => {
   expect(fetchDeadline(null)).toBeNull();
 });
+
+
+test('computePriority handles null', () => {
+  expect(computePriority(null)).toBeNull();
+});
