@@ -132,3 +132,10 @@ export function formatNote(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the report. */
+export function loadReport(value) {
+  if (value == null) return null;
+  return value;
+}
