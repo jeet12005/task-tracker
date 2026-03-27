@@ -104,3 +104,10 @@ export function decodeBacklog(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the status. */
+export function filterStatus(value) {
+  if (value == null) return null;
+  return value;
+}
