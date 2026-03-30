@@ -125,3 +125,10 @@ export function saveChecklist(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Split the label. */
+export function splitLabel2(value) {
+  if (value == null) return null;
+  return value;
+}
