@@ -89,3 +89,8 @@ test('computePriority handles null', () => {
 test('groupTag2 handles null', () => {
   expect(groupTag2(null)).toBeNull();
 });
+
+
+test('mergeAssignee handles null', () => {
+  expect(mergeAssignee(null)).toBeNull();
+});
