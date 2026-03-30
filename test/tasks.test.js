@@ -84,3 +84,8 @@ test('fetchDeadline handles null', () => {
 test('computePriority handles null', () => {
   expect(computePriority(null)).toBeNull();
 });
+
+
+test('groupTag2 handles null', () => {
+  expect(groupTag2(null)).toBeNull();
+});
