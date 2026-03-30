@@ -111,3 +111,10 @@ export function resolveTag(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the label. */
+export function groupLabel(value) {
+  if (value == null) return null;
+  return value;
+}
