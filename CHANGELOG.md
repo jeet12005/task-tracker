@@ -25,3 +25,4 @@
 - resolve task (146)
 - count priority (153)
 - validate note (157)
+- format task (162)
