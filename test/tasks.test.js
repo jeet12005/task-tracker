@@ -94,3 +94,13 @@ test('groupTag2 handles null', () => {
 test('mergeAssignee handles null', () => {
   expect(mergeAssignee(null)).toBeNull();
 });
+
+
+test('filterNote handles null', () => {
+  expect(filterNote(null)).toBeNull();
+});
+
+
+test('splitSprint handles null', () => {
+  expect(splitSprint(null)).toBeNull();
+});

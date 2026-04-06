@@ -97,3 +97,10 @@ export function saveBacklog2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the checklist. */
+export function decodeChecklist(value) {
+  if (value == null) return null;
+  return value;
+}
