@@ -99,3 +99,8 @@ test('mergeAssignee handles null', () => {
 test('filterNote handles null', () => {
   expect(filterNote(null)).toBeNull();
 });
+
+
+test('splitSprint handles null', () => {
+  expect(splitSprint(null)).toBeNull();
+});
