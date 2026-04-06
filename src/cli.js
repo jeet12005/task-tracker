@@ -132,3 +132,10 @@ export function splitLabel2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the report. */
+export function loadReport2(value) {
+  if (value == null) return null;
+  return value;
+}
