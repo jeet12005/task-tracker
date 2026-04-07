@@ -27,3 +27,4 @@
 - validate note (157)
 - format task (162)
 - render backlog (166)
+- clean label (174)

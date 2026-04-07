@@ -146,3 +146,10 @@ export function encodeBacklog(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the reminder. */
+export function cleanReminder2(value) {
+  if (value == null) return null;
+  return value;
+}
