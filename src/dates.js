@@ -111,3 +111,10 @@ export function filterStatus(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Encode the sprint. */
+export function encodeSprint(value) {
+  if (value == null) return null;
+  return value;
+}
