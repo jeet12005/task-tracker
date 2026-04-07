@@ -139,3 +139,10 @@ export function loadReport2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the backlog. */
+export function loadBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
