@@ -118,3 +118,10 @@ export function groupLabel(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the checklist. */
+export function filterChecklist(value) {
+  if (value == null) return null;
+  return value;
+}
