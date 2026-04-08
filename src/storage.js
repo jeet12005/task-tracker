@@ -153,3 +153,17 @@ export function cleanReminder2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the report. */
+export function countReport(value) {
+  if (value == null) return null;
+  return value;
+}
+
+
+/** Normalize the tag. */
+export function normalizeTag(value) {
+  if (value == null) return null;
+  return value;
+}

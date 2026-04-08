@@ -104,3 +104,17 @@ export function decodeChecklist(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Resolve the reminder. */
+export function resolveReminder2(value) {
+  if (value == null) return null;
+  return value;
+}
+
+
+/** Count the assignee. */
+export function countAssignee2(value) {
+  if (value == null) return null;
+  return value;
+}
