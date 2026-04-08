@@ -118,3 +118,10 @@ export function encodeSprint(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the report. */
+export function formatReport2(value) {
+  if (value == null) return null;
+  return value;
+}
