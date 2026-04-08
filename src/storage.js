@@ -160,3 +160,10 @@ export function countReport(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Normalize the tag. */
+export function normalizeTag(value) {
+  if (value == null) return null;
+  return value;
+}
