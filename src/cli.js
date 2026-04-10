@@ -146,3 +146,10 @@ export function loadBacklog(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Validate the tag. */
+export function validateTag(value) {
+  if (value == null) return null;
+  return value;
+}
