@@ -104,3 +104,8 @@ test('filterNote handles null', () => {
 test('splitSprint handles null', () => {
   expect(splitSprint(null)).toBeNull();
 });
+
+
+test('countReport handles null', () => {
+  expect(countReport(null)).toBeNull();
+});
