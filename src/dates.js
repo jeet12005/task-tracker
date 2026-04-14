@@ -125,3 +125,10 @@ export function formatReport2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Merge the backlog. */
+export function mergeBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
