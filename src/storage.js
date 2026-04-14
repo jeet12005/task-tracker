@@ -167,3 +167,10 @@ export function normalizeTag(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the project. */
+export function renderProject(value) {
+  if (value == null) return null;
+  return value;
+}
