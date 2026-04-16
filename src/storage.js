@@ -174,3 +174,10 @@ export function renderProject(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the task. */
+export function decodeTask(value) {
+  if (value == null) return null;
+  return value;
+}
