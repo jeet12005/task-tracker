@@ -132,3 +132,10 @@ export function filterTask(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Sort the label. */
+export function sortLabel2(value) {
+  if (value == null) return null;
+  return value;
+}
