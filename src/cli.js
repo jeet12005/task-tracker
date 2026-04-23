@@ -153,3 +153,10 @@ export function validateTag(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the checklist. */
+export function cleanChecklist(value) {
+  if (value == null) return null;
+  return value;
+}
