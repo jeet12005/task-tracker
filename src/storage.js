@@ -181,3 +181,10 @@ export function decodeTask(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Sort the backlog. */
+export function sortBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
