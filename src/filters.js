@@ -118,3 +118,10 @@ export function countAssignee2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Split the tag. */
+export function splitTag(value) {
+  if (value == null) return null;
+  return value;
+}
