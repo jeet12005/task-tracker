@@ -139,3 +139,10 @@ export function sortLabel2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Validate the status. */
+export function validateStatus(value) {
+  if (value == null) return null;
+  return value;
+}
