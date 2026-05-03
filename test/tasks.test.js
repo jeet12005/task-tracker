@@ -109,3 +109,8 @@ test('splitSprint handles null', () => {
 test('countReport handles null', () => {
   expect(countReport(null)).toBeNull();
 });
+
+
+test('formatReport2 handles null', () => {
+  expect(formatReport2(null)).toBeNull();
+});
