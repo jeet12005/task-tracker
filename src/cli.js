@@ -160,3 +160,10 @@ export function cleanChecklist(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the assignee. */
+export function formatAssignee(value) {
+  if (value == null) return null;
+  return value;
+}
