@@ -153,3 +153,10 @@ export function buildProject2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the project. */
+export function renderProject2(value) {
+  if (value == null) return null;
+  return value;
+}
