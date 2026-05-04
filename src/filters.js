@@ -132,3 +132,10 @@ export function saveStatus(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the note. */
+export function countNote(value) {
+  if (value == null) return null;
+  return value;
+}
