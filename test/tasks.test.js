@@ -114,3 +114,8 @@ test('countReport handles null', () => {
 test('formatReport2 handles null', () => {
   expect(formatReport2(null)).toBeNull();
 });
+
+
+test('parseStatus handles null', () => {
+  expect(parseStatus(null)).toBeNull();
+});

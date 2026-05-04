@@ -132,3 +132,10 @@ export function mergeBacklog(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the status. */
+export function loadStatus2(value) {
+  if (value == null) return null;
+  return value;
+}

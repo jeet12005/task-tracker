@@ -30,3 +30,5 @@
 - clean label (174)
 - save tag (192)
 - save label (199)
+- clean priority (201)
+- compute checklist (202)
