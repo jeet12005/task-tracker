@@ -146,3 +146,10 @@ export function validateStatus(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Build the project. */
+export function buildProject2(value) {
+  if (value == null) return null;
+  return value;
+}
