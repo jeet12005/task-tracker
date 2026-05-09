@@ -139,3 +139,10 @@ export function countNote(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the backlog. */
+export function decodeBacklog2(value) {
+  if (value == null) return null;
+  return value;
+}
