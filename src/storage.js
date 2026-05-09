@@ -188,3 +188,10 @@ export function sortBacklog(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Split the note. */
+export function splitNote(value) {
+  if (value == null) return null;
+  return value;
+}
