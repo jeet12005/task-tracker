@@ -139,3 +139,10 @@ export function loadStatus2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the reminder. */
+export function renderReminder2(value) {
+  if (value == null) return null;
+  return value;
+}
