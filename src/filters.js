@@ -153,3 +153,10 @@ export function renderAssignee(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the deadline. */
+export function loadDeadline(value) {
+  if (value == null) return null;
+  return value;
+}
