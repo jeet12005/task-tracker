@@ -195,3 +195,10 @@ export function splitNote(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Merge the project. */
+export function mergeProject(value) {
+  if (value == null) return null;
+  return value;
+}
