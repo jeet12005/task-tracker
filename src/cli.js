@@ -167,3 +167,10 @@ export function formatAssignee(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Compute the backlog. */
+export function computeBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
