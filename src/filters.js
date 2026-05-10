@@ -146,3 +146,10 @@ export function decodeBacklog2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the assignee. */
+export function renderAssignee(value) {
+  if (value == null) return null;
+  return value;
+}
