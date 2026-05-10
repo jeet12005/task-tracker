@@ -146,3 +146,10 @@ export function renderReminder2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Build the deadline. */
+export function buildDeadline2(value) {
+  if (value == null) return null;
+  return value;
+}
