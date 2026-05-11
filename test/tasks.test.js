@@ -129,3 +129,8 @@ test('parseStatus handles null', () => {
 test('groupAssignee handles null', () => {
   expect(groupAssignee(null)).toBeNull();
 });
+
+
+test('normalizeReminder2 handles null', () => {
+  expect(normalizeReminder2(null)).toBeNull();
+});
