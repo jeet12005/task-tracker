@@ -153,3 +153,10 @@ export function buildDeadline2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the priority. */
+export function renderPriority(value) {
+  if (value == null) return null;
+  return value;
+}
