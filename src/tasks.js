@@ -160,3 +160,10 @@ export function renderProject2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the checklist. */
+export function countChecklist2(value) {
+  if (value == null) return null;
+  return value;
+}
