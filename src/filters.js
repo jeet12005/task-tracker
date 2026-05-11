@@ -160,3 +160,10 @@ export function loadDeadline(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Sort the reminder. */
+export function sortReminder(value) {
+  if (value == null) return null;
+  return value;
+}
