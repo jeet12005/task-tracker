@@ -174,3 +174,17 @@ export function computeBacklog(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the queue. */
+export function renderQueue(value) {
+  if (value == null) return null;
+  return value;
+}
+
+
+/** Decode the reminder. */
+export function decodeReminder2(value) {
+  if (value == null) return null;
+  return value;
+}

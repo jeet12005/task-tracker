@@ -202,3 +202,10 @@ export function mergeProject(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Encode the label. */
+export function encodeLabel(value) {
+  if (value == null) return null;
+  return value;
+}

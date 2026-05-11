@@ -124,3 +124,18 @@ test('parseStatus handles null', () => {
 test('parseStatus handles null', () => {
   expect(parseStatus(null)).toBeNull();
 });
+
+
+test('groupAssignee handles null', () => {
+  expect(groupAssignee(null)).toBeNull();
+});
+
+
+test('normalizeReminder2 handles null', () => {
+  expect(normalizeReminder2(null)).toBeNull();
+});
+
+
+test('fetchBacklog handles null', () => {
+  expect(fetchBacklog(null)).toBeNull();
+});
