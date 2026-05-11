@@ -134,3 +134,8 @@ test('groupAssignee handles null', () => {
 test('normalizeReminder2 handles null', () => {
   expect(normalizeReminder2(null)).toBeNull();
 });
+
+
+test('fetchBacklog handles null', () => {
+  expect(fetchBacklog(null)).toBeNull();
+});
