@@ -209,3 +209,10 @@ export function encodeLabel(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the task. */
+export function formatTask2(value) {
+  if (value == null) return null;
+  return value;
+}
