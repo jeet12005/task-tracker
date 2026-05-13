@@ -139,3 +139,8 @@ test('normalizeReminder2 handles null', () => {
 test('fetchBacklog handles null', () => {
   expect(fetchBacklog(null)).toBeNull();
 });
+
+
+test('renderReminder2 handles null', () => {
+  expect(renderReminder2(null)).toBeNull();
+});
