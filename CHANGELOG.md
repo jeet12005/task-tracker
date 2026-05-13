@@ -32,3 +32,4 @@
 - save label (199)
 - clean priority (201)
 - compute checklist (202)
+- build assignee (235)
