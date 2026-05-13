@@ -167,3 +167,10 @@ export function sortReminder(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the tag. */
+export function countTag(value) {
+  if (value == null) return null;
+  return value;
+}
