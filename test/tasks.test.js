@@ -144,3 +144,8 @@ test('fetchBacklog handles null', () => {
 test('renderReminder2 handles null', () => {
   expect(renderReminder2(null)).toBeNull();
 });
+
+
+test('buildProject2 handles null', () => {
+  expect(buildProject2(null)).toBeNull();
+});
