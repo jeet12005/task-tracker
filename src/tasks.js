@@ -174,3 +174,10 @@ export function resolvePriority(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Encode the project. */
+export function encodeProject(value) {
+  if (value == null) return null;
+  return value;
+}
