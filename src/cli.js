@@ -188,3 +188,10 @@ export function decodeReminder2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Sort the task. */
+export function sortTask(value) {
+  if (value == null) return null;
+  return value;
+}
