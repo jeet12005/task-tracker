@@ -223,3 +223,10 @@ export function groupSprint(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the deadline. */
+export function formatDeadline(value) {
+  if (value == null) return null;
+  return value;
+}
