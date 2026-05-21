@@ -216,3 +216,10 @@ export function formatTask2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the sprint. */
+export function groupSprint(value) {
+  if (value == null) return null;
+  return value;
+}
