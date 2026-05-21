@@ -160,3 +160,10 @@ export function renderPriority(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Compute the task. */
+export function computeTask(value) {
+  if (value == null) return null;
+  return value;
+}
