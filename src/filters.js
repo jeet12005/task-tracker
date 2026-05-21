@@ -174,3 +174,10 @@ export function countTag(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Resolve the queue. */
+export function resolveQueue(value) {
+  if (value == null) return null;
+  return value;
+}
