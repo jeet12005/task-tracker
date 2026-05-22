@@ -149,3 +149,8 @@ test('renderReminder2 handles null', () => {
 test('buildProject2 handles null', () => {
   expect(buildProject2(null)).toBeNull();
 });
+
+
+test('sortStatus handles null', () => {
+  expect(sortStatus(null)).toBeNull();
+});
