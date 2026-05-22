@@ -202,3 +202,10 @@ export function resolvePriority2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the deadline. */
+export function cleanDeadline(value) {
+  if (value == null) return null;
+  return value;
+}
