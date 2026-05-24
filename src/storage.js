@@ -230,3 +230,10 @@ export function formatDeadline(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Build the reminder. */
+export function buildReminder(value) {
+  if (value == null) return null;
+  return value;
+}
