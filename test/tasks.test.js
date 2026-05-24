@@ -154,3 +154,8 @@ test('buildProject2 handles null', () => {
 test('sortStatus handles null', () => {
   expect(sortStatus(null)).toBeNull();
 });
+
+
+test('filterNote handles null', () => {
+  expect(filterNote(null)).toBeNull();
+});
