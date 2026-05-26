@@ -209,3 +209,10 @@ export function cleanDeadline(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the reminder. */
+export function decodeReminder3(value) {
+  if (value == null) return null;
+  return value;
+}
