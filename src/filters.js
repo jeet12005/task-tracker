@@ -181,3 +181,10 @@ export function resolveQueue(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the note. */
+export function cleanNote(value) {
+  if (value == null) return null;
+  return value;
+}
