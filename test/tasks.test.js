@@ -159,3 +159,8 @@ test('sortStatus handles null', () => {
 test('filterNote handles null', () => {
   expect(filterNote(null)).toBeNull();
 });
+
+
+test('computeBacklog handles null', () => {
+  expect(computeBacklog(null)).toBeNull();
+});
