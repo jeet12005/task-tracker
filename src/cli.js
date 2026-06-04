@@ -216,3 +216,10 @@ export function decodeReminder3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the label. */
+export function renderLabel2(value) {
+  if (value == null) return null;
+  return value;
+}

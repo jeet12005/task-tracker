@@ -164,3 +164,13 @@ test('filterNote handles null', () => {
 test('computeBacklog handles null', () => {
   expect(computeBacklog(null)).toBeNull();
 });
+
+
+test('validatePriority handles null', () => {
+  expect(validatePriority(null)).toBeNull();
+});
+
+
+test('cleanReminder2 handles null', () => {
+  expect(cleanReminder2(null)).toBeNull();
+});
