@@ -237,3 +237,10 @@ export function buildReminder(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the priority. */
+export function filterPriority(value) {
+  if (value == null) return null;
+  return value;
+}
