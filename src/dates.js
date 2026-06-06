@@ -174,3 +174,10 @@ export function splitProject2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the checklist. */
+export function filterChecklist2(value) {
+  if (value == null) return null;
+  return value;
+}
