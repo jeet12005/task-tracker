@@ -244,3 +244,10 @@ export function filterPriority(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Validate the deadline. */
+export function validateDeadline2(value) {
+  if (value == null) return null;
+  return value;
+}
