@@ -251,3 +251,10 @@ export function validateDeadline2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the deadline. */
+export function formatDeadline2(value) {
+  if (value == null) return null;
+  return value;
+}
