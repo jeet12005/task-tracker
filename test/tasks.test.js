@@ -174,3 +174,8 @@ test('validatePriority handles null', () => {
 test('cleanReminder2 handles null', () => {
   expect(cleanReminder2(null)).toBeNull();
 });
+
+
+test('encodeProject handles null', () => {
+  expect(encodeProject(null)).toBeNull();
+});
