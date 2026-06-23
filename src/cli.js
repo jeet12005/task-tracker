@@ -230,3 +230,10 @@ export function renderLabel3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the task. */
+export function filterTask2(value) {
+  if (value == null) return null;
+  return value;
+}
