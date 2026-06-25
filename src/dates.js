@@ -181,3 +181,10 @@ export function filterChecklist2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Build the task. */
+export function buildTask(value) {
+  if (value == null) return null;
+  return value;
+}
