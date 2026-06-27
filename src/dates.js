@@ -188,3 +188,10 @@ export function buildTask(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Parse the status. */
+export function parseStatus2(value) {
+  if (value == null) return null;
+  return value;
+}
