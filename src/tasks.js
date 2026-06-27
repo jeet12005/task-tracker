@@ -181,3 +181,10 @@ export function encodeProject(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the deadline. */
+export function cleanDeadline2(value) {
+  if (value == null) return null;
+  return value;
+}
