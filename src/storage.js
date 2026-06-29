@@ -265,3 +265,10 @@ export function decodeBacklog3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Encode the tag. */
+export function encodeTag(value) {
+  if (value == null) return null;
+  return value;
+}
