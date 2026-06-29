@@ -188,3 +188,10 @@ export function cleanDeadline2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the project. */
+export function decodeProject(value) {
+  if (value == null) return null;
+  return value;
+}
