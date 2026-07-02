@@ -272,3 +272,10 @@ export function encodeTag(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the reminder. */
+export function cleanReminder3(value) {
+  if (value == null) return null;
+  return value;
+}
