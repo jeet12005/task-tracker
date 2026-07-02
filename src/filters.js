@@ -188,3 +188,17 @@ export function cleanNote(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the label. */
+export function countLabel2(value) {
+  if (value == null) return null;
+  return value;
+}
+
+
+/** Split the reminder. */
+export function splitReminder(value) {
+  if (value == null) return null;
+  return value;
+}
