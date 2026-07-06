@@ -195,3 +195,10 @@ export function parseStatus2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Normalize the report. */
+export function normalizeReport(value) {
+  if (value == null) return null;
+  return value;
+}
