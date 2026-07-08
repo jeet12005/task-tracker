@@ -195,3 +195,10 @@ export function decodeProject(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the assignee. */
+export function cleanAssignee2(value) {
+  if (value == null) return null;
+  return value;
+}
