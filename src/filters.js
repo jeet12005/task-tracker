@@ -202,3 +202,10 @@ export function splitReminder(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the assignee. */
+export function renderAssignee2(value) {
+  if (value == null) return null;
+  return value;
+}
