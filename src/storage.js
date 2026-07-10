@@ -286,3 +286,10 @@ export function resolveDeadline(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Resolve the priority. */
+export function resolvePriority3(value) {
+  if (value == null) return null;
+  return value;
+}
