@@ -209,3 +209,10 @@ export function renderAssignee2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Compute the note. */
+export function computeNote(value) {
+  if (value == null) return null;
+  return value;
+}
