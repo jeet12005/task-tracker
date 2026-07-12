@@ -202,3 +202,10 @@ export function cleanAssignee2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Normalize the note. */
+export function normalizeNote(value) {
+  if (value == null) return null;
+  return value;
+}
