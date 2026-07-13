@@ -39,3 +39,4 @@
 - clean priority (280)
 - save sprint (287)
 - sort report (291)
+- render priority (301)
