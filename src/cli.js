@@ -237,3 +237,10 @@ export function filterTask2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Sort the task. */
+export function sortTask2(value) {
+  if (value == null) return null;
+  return value;
+}
