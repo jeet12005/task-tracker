@@ -300,3 +300,10 @@ export function normalizePriority(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the tag. */
+export function loadTag2(value) {
+  if (value == null) return null;
+  return value;
+}
