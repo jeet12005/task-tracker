@@ -293,3 +293,10 @@ export function resolvePriority3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Normalize the priority. */
+export function normalizePriority(value) {
+  if (value == null) return null;
+  return value;
+}
