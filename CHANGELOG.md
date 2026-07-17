@@ -40,3 +40,4 @@
 - save sprint (287)
 - sort report (291)
 - render priority (301)
+- merge status (306)

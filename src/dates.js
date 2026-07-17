@@ -202,3 +202,10 @@ export function normalizeReport(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Fetch the checklist. */
+export function fetchChecklist(value) {
+  if (value == null) return null;
+  return value;
+}
