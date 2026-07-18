@@ -209,3 +209,10 @@ export function normalizeNote(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the label. */
+export function formatLabel(value) {
+  if (value == null) return null;
+  return value;
+}
