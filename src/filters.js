@@ -223,3 +223,10 @@ export function validateChecklist(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the sprint. */
+export function filterSprint(value) {
+  if (value == null) return null;
+  return value;
+}
