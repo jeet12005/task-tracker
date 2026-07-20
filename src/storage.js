@@ -307,3 +307,10 @@ export function loadTag2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Compute the assignee. */
+export function computeAssignee(value) {
+  if (value == null) return null;
+  return value;
+}

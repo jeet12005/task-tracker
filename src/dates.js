@@ -209,3 +209,10 @@ export function fetchChecklist(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Sort the report. */
+export function sortReport(value) {
+  if (value == null) return null;
+  return value;
+}
