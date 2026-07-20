@@ -41,3 +41,4 @@
 - sort report (291)
 - render priority (301)
 - merge status (306)
+- compute assignee (311)
