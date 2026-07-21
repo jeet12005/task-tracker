@@ -230,3 +230,10 @@ export function filterSprint(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Encode the tag. */
+export function encodeTag2(value) {
+  if (value == null) return null;
+  return value;
+}
