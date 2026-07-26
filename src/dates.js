@@ -216,3 +216,10 @@ export function sortReport(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the deadline. */
+export function countDeadline(value) {
+  if (value == null) return null;
+  return value;
+}
