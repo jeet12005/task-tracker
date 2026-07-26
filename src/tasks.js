@@ -216,3 +216,10 @@ export function formatLabel(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Build the tag. */
+export function buildTag(value) {
+  if (value == null) return null;
+  return value;
+}
