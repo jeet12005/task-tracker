@@ -184,3 +184,8 @@ test('encodeProject handles null', () => {
 test('formatAssignee handles null', () => {
   expect(formatAssignee(null)).toBeNull();
 });
+
+
+test('cleanReminder3 handles null', () => {
+  expect(cleanReminder3(null)).toBeNull();
+});
