@@ -194,3 +194,8 @@ test('cleanReminder3 handles null', () => {
 test('renderAssignee2 handles null', () => {
   expect(renderAssignee2(null)).toBeNull();
 });
+
+
+test('normalizeReminder3 handles null', () => {
+  expect(normalizeReminder3(null)).toBeNull();
+});
