@@ -223,3 +223,17 @@ export function buildTag(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Split the priority. */
+export function splitPriority(value) {
+  if (value == null) return null;
+  return value;
+}
+
+
+/** Validate the tag. */
+export function validateTag2(value) {
+  if (value == null) return null;
+  return value;
+}
