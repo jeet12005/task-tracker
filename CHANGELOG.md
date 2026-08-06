@@ -42,3 +42,4 @@
 - render priority (301)
 - merge status (306)
 - compute assignee (311)
+- render priority (327)
