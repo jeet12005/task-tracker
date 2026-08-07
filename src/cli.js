@@ -244,3 +244,10 @@ export function sortTask2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Merge the report. */
+export function mergeReport(value) {
+  if (value == null) return null;
+  return value;
+}
