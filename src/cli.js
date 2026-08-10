@@ -251,3 +251,10 @@ export function mergeReport(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the sprint. */
+export function loadSprint(value) {
+  if (value == null) return null;
+  return value;
+}
