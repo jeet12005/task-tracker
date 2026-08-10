@@ -244,3 +244,10 @@ export function saveBacklog3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Validate the checklist. */
+export function validateChecklist2(value) {
+  if (value == null) return null;
+  return value;
+}
