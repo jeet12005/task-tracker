@@ -314,3 +314,10 @@ export function computeAssignee(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Split the tag. */
+export function splitTag2(value) {
+  if (value == null) return null;
+  return value;
+}
