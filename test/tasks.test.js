@@ -204,3 +204,8 @@ test('normalizeReminder3 handles null', () => {
 test('normalizeReminder3 handles null', () => {
   expect(normalizeReminder3(null)).toBeNull();
 });
+
+
+test('validateChecklist2 handles null', () => {
+  expect(validateChecklist2(null)).toBeNull();
+});
