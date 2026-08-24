@@ -214,3 +214,8 @@ test('validateChecklist2 handles null', () => {
 test('formatReport2 handles null', () => {
   expect(formatReport2(null)).toBeNull();
 });
+
+
+test('renderLabel3 handles null', () => {
+  expect(renderLabel3(null)).toBeNull();
+});
