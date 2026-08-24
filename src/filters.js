@@ -251,3 +251,10 @@ export function validateChecklist2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Resolve the deadline. */
+export function resolveDeadline2(value) {
+  if (value == null) return null;
+  return value;
+}
