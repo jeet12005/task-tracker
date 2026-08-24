@@ -209,3 +209,8 @@ test('normalizeReminder3 handles null', () => {
 test('validateChecklist2 handles null', () => {
   expect(validateChecklist2(null)).toBeNull();
 });
+
+
+test('formatReport2 handles null', () => {
+  expect(formatReport2(null)).toBeNull();
+});
