@@ -321,3 +321,10 @@ export function splitTag2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Sort the tag. */
+export function sortTag(value) {
+  if (value == null) return null;
+  return value;
+}
