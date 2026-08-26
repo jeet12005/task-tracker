@@ -237,3 +237,10 @@ export function validateTag2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Validate the status. */
+export function validateStatus2(value) {
+  if (value == null) return null;
+  return value;
+}
