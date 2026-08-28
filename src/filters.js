@@ -258,3 +258,10 @@ export function resolveDeadline2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the backlog. */
+export function countBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
