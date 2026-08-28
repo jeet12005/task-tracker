@@ -328,3 +328,10 @@ export function sortTag(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Compute the status. */
+export function computeStatus(value) {
+  if (value == null) return null;
+  return value;
+}
