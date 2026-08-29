@@ -223,3 +223,10 @@ export function countDeadline(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Split the tag. */
+export function splitTag3(value) {
+  if (value == null) return null;
+  return value;
+}
