@@ -219,3 +219,8 @@ test('formatReport2 handles null', () => {
 test('renderLabel3 handles null', () => {
   expect(renderLabel3(null)).toBeNull();
 });
+
+
+test('encodeSprint handles null', () => {
+  expect(encodeSprint(null)).toBeNull();
+});
