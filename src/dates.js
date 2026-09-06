@@ -230,3 +230,10 @@ export function splitTag3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Compute the backlog. */
+export function computeBacklog2(value) {
+  if (value == null) return null;
+  return value;
+}
