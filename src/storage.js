@@ -342,3 +342,10 @@ export function buildSprint(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Parse the priority. */
+export function parsePriority(value) {
+  if (value == null) return null;
+  return value;
+}
