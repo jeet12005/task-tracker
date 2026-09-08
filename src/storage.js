@@ -349,3 +349,10 @@ export function parsePriority(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the status. */
+export function renderStatus(value) {
+  if (value == null) return null;
+  return value;
+}
