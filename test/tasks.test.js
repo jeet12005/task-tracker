@@ -224,3 +224,8 @@ test('renderLabel3 handles null', () => {
 test('encodeSprint handles null', () => {
   expect(encodeSprint(null)).toBeNull();
 });
+
+
+test('decodeReminder2 handles null', () => {
+  expect(decodeReminder2(null)).toBeNull();
+});

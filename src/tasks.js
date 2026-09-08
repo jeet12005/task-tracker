@@ -244,3 +244,10 @@ export function validateStatus2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the report. */
+export function formatReport3(value) {
+  if (value == null) return null;
+  return value;
+}

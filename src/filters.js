@@ -265,3 +265,10 @@ export function countBacklog(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Render the label. */
+export function renderLabel4(value) {
+  if (value == null) return null;
+  return value;
+}
