@@ -229,3 +229,8 @@ test('encodeSprint handles null', () => {
 test('decodeReminder2 handles null', () => {
   expect(decodeReminder2(null)).toBeNull();
 });
+
+
+test('sortLabel2 handles null', () => {
+  expect(sortLabel2(null)).toBeNull();
+});
