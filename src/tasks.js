@@ -251,3 +251,10 @@ export function formatReport3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the checklist. */
+export function groupChecklist2(value) {
+  if (value == null) return null;
+  return value;
+}
