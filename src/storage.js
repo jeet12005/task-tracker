@@ -356,3 +356,10 @@ export function renderStatus(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the priority. */
+export function decodePriority(value) {
+  if (value == null) return null;
+  return value;
+}
