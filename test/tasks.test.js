@@ -234,3 +234,8 @@ test('decodeReminder2 handles null', () => {
 test('sortLabel2 handles null', () => {
   expect(sortLabel2(null)).toBeNull();
 });
+
+
+test('encodeTag handles null', () => {
+  expect(encodeTag(null)).toBeNull();
+});
