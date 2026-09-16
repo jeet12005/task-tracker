@@ -258,3 +258,10 @@ export function loadSprint(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Split the note. */
+export function splitNote2(value) {
+  if (value == null) return null;
+  return value;
+}
