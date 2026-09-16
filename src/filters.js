@@ -272,3 +272,10 @@ export function renderLabel4(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the priority. */
+export function groupPriority2(value) {
+  if (value == null) return null;
+  return value;
+}
