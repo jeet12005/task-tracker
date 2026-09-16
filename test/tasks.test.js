@@ -239,3 +239,8 @@ test('sortLabel2 handles null', () => {
 test('encodeTag handles null', () => {
   expect(encodeTag(null)).toBeNull();
 });
+
+
+test('loadStatus2 handles null', () => {
+  expect(loadStatus2(null)).toBeNull();
+});
