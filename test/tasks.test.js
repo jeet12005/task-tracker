@@ -244,3 +244,8 @@ test('encodeTag handles null', () => {
 test('loadStatus2 handles null', () => {
   expect(loadStatus2(null)).toBeNull();
 });
+
+
+test('decodeBacklog2 handles null', () => {
+  expect(decodeBacklog2(null)).toBeNull();
+});
