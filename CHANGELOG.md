@@ -47,3 +47,4 @@
 - compute sprint (357)
 - build backlog (361)
 - merge checklist (366)
+- decode note (374)
