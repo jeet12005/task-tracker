@@ -258,3 +258,10 @@ export function groupChecklist2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the project. */
+export function loadProject(value) {
+  if (value == null) return null;
+  return value;
+}
