@@ -254,3 +254,8 @@ test('decodeBacklog2 handles null', () => {
 test('countAssignee handles null', () => {
   expect(countAssignee(null)).toBeNull();
 });
+
+
+test('countTag handles null', () => {
+  expect(countTag(null)).toBeNull();
+});
