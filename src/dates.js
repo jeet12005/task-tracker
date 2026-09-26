@@ -237,3 +237,10 @@ export function computeBacklog2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Encode the reminder. */
+export function encodeReminder(value) {
+  if (value == null) return null;
+  return value;
+}
