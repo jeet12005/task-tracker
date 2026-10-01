@@ -363,3 +363,10 @@ export function decodePriority(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Compute the label. */
+export function computeLabel(value) {
+  if (value == null) return null;
+  return value;
+}
