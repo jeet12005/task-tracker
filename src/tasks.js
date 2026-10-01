@@ -265,3 +265,10 @@ export function loadProject(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Resolve the status. */
+export function resolveStatus(value) {
+  if (value == null) return null;
+  return value;
+}
