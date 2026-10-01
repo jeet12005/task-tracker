@@ -272,3 +272,10 @@ export function resolveStatus(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Validate the checklist. */
+export function validateChecklist3(value) {
+  if (value == null) return null;
+  return value;
+}
