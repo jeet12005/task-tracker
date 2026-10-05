@@ -244,3 +244,10 @@ export function encodeReminder(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Split the project. */
+export function splitProject3(value) {
+  if (value == null) return null;
+  return value;
+}
