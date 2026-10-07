@@ -251,3 +251,10 @@ export function splitProject3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Merge the queue. */
+export function mergeQueue2(value) {
+  if (value == null) return null;
+  return value;
+}
