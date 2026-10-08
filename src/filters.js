@@ -279,3 +279,10 @@ export function groupPriority2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the sprint. */
+export function filterSprint2(value) {
+  if (value == null) return null;
+  return value;
+}
