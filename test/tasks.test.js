@@ -259,3 +259,8 @@ test('countAssignee handles null', () => {
 test('countTag handles null', () => {
   expect(countTag(null)).toBeNull();
 });
+
+
+test('mergeProject handles null', () => {
+  expect(mergeProject(null)).toBeNull();
+});
