@@ -258,3 +258,10 @@ export function mergeQueue2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the sprint. */
+export function countSprint2(value) {
+  if (value == null) return null;
+  return value;
+}
