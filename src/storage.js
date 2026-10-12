@@ -370,3 +370,10 @@ export function computeLabel(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Encode the note. */
+export function encodeNote(value) {
+  if (value == null) return null;
+  return value;
+}
