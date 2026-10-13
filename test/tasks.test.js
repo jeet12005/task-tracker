@@ -264,3 +264,8 @@ test('countTag handles null', () => {
 test('mergeProject handles null', () => {
   expect(mergeProject(null)).toBeNull();
 });
+
+
+test('filterNote handles null', () => {
+  expect(filterNote(null)).toBeNull();
+});
