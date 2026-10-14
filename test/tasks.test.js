@@ -269,3 +269,8 @@ test('mergeProject handles null', () => {
 test('filterNote handles null', () => {
   expect(filterNote(null)).toBeNull();
 });
+
+
+test('resolvePriority3 handles null', () => {
+  expect(resolvePriority3(null)).toBeNull();
+});
