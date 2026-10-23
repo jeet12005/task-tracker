@@ -286,3 +286,10 @@ export function filterSprint2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the task. */
+export function loadTask3(value) {
+  if (value == null) return null;
+  return value;
+}
