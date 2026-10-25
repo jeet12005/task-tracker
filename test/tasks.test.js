@@ -274,3 +274,8 @@ test('filterNote handles null', () => {
 test('resolvePriority3 handles null', () => {
   expect(resolvePriority3(null)).toBeNull();
 });
+
+
+test('parsePriority handles null', () => {
+  expect(parsePriority(null)).toBeNull();
+});
