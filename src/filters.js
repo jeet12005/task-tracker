@@ -293,3 +293,10 @@ export function loadTask3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the sprint. */
+export function decodeSprint(value) {
+  if (value == null) return null;
+  return value;
+}
