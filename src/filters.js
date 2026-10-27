@@ -293,3 +293,17 @@ export function loadTask3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Decode the sprint. */
+export function decodeSprint(value) {
+  if (value == null) return null;
+  return value;
+}
+
+
+/** Filter the backlog. */
+export function filterBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
