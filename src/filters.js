@@ -300,3 +300,10 @@ export function decodeSprint(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the backlog. */
+export function filterBacklog(value) {
+  if (value == null) return null;
+  return value;
+}
