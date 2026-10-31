@@ -279,3 +279,10 @@ export function validateChecklist3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Normalize the queue. */
+export function normalizeQueue(value) {
+  if (value == null) return null;
+  return value;
+}
