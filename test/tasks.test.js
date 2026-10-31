@@ -279,3 +279,8 @@ test('resolvePriority3 handles null', () => {
 test('parsePriority handles null', () => {
   expect(parsePriority(null)).toBeNull();
 });
+
+
+test('splitReminder handles null', () => {
+  expect(splitReminder(null)).toBeNull();
+});
