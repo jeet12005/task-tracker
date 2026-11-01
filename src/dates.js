@@ -265,3 +265,10 @@ export function countSprint2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the project. */
+export function cleanProject3(value) {
+  if (value == null) return null;
+  return value;
+}
