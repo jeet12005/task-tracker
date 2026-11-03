@@ -377,3 +377,10 @@ export function encodeNote(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Resolve the queue. */
+export function resolveQueue2(value) {
+  if (value == null) return null;
+  return value;
+}
