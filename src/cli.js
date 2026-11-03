@@ -265,3 +265,10 @@ export function splitNote2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Save the task. */
+export function saveTask(value) {
+  if (value == null) return null;
+  return value;
+}
