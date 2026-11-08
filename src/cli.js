@@ -272,3 +272,10 @@ export function saveTask(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Clean the reminder. */
+export function cleanReminder4(value) {
+  if (value == null) return null;
+  return value;
+}
