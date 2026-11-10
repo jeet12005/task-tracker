@@ -284,3 +284,8 @@ test('parsePriority handles null', () => {
 test('splitReminder handles null', () => {
   expect(splitReminder(null)).toBeNull();
 });
+
+
+test('formatReport2 handles null', () => {
+  expect(formatReport2(null)).toBeNull();
+});
