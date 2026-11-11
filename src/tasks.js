@@ -286,3 +286,10 @@ export function normalizeQueue(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Format the tag. */
+export function formatTag3(value) {
+  if (value == null) return null;
+  return value;
+}
