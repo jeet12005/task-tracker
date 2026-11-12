@@ -294,3 +294,8 @@ test('formatReport2 handles null', () => {
 test('resolveReminder2 handles null', () => {
   expect(resolveReminder2(null)).toBeNull();
 });
+
+
+test('fetchBacklog2 handles null', () => {
+  expect(fetchBacklog2(null)).toBeNull();
+});
