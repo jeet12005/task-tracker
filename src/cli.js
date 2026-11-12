@@ -286,3 +286,10 @@ export function loadDeadline2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the reminder. */
+export function loadReminder(value) {
+  if (value == null) return null;
+  return value;
+}
