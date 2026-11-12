@@ -289,3 +289,8 @@ test('splitReminder handles null', () => {
 test('formatReport2 handles null', () => {
   expect(formatReport2(null)).toBeNull();
 });
+
+
+test('resolveReminder2 handles null', () => {
+  expect(resolveReminder2(null)).toBeNull();
+});
