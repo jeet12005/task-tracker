@@ -279,3 +279,10 @@ export function cleanReminder4(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Load the deadline. */
+export function loadDeadline2(value) {
+  if (value == null) return null;
+  return value;
+}
