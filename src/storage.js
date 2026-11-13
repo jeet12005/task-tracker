@@ -384,3 +384,10 @@ export function resolveQueue2(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Split the task. */
+export function splitTask(value) {
+  if (value == null) return null;
+  return value;
+}
