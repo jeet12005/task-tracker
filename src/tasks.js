@@ -293,3 +293,10 @@ export function formatTag3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Group the checklist. */
+export function groupChecklist3(value) {
+  if (value == null) return null;
+  return value;
+}
