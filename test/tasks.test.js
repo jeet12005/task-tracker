@@ -304,3 +304,8 @@ test('fetchBacklog2 handles null', () => {
 test('buildDeadline2 handles null', () => {
   expect(buildDeadline2(null)).toBeNull();
 });
+
+
+test('renderReminder2 handles null', () => {
+  expect(renderReminder2(null)).toBeNull();
+});
