@@ -314,3 +314,10 @@ export function resolvePriority4(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Merge the project. */
+export function mergeProject2(value) {
+  if (value == null) return null;
+  return value;
+}
