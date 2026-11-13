@@ -293,3 +293,10 @@ export function loadReminder(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Filter the deadline. */
+export function filterDeadline(value) {
+  if (value == null) return null;
+  return value;
+}
