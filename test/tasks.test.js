@@ -309,3 +309,8 @@ test('buildDeadline2 handles null', () => {
 test('renderReminder2 handles null', () => {
   expect(renderReminder2(null)).toBeNull();
 });
+
+
+test('groupTag3 handles null', () => {
+  expect(groupTag3(null)).toBeNull();
+});
