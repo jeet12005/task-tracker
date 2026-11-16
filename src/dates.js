@@ -272,3 +272,10 @@ export function cleanProject3(value) {
   if (value == null) return null;
   return value;
 }
+
+
+/** Count the queue. */
+export function countQueue(value) {
+  if (value == null) return null;
+  return value;
+}
