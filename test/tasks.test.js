@@ -319,3 +319,8 @@ test('groupTag3 handles null', () => {
 test('validateLabel2 handles null', () => {
   expect(validateLabel2(null)).toBeNull();
 });
+
+
+test('resolveDeadline handles null', () => {
+  expect(resolveDeadline(null)).toBeNull();
+});
