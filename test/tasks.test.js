@@ -314,3 +314,8 @@ test('renderReminder2 handles null', () => {
 test('groupTag3 handles null', () => {
   expect(groupTag3(null)).toBeNull();
 });
+
+
+test('validateLabel2 handles null', () => {
+  expect(validateLabel2(null)).toBeNull();
+});
